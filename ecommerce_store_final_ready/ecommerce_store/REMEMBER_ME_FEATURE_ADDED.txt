@@ -1,0 +1,4 @@
+Login & Remember Me feature added according to P4 requirements.
+Session variables: $_SESSION['user_id'], $_SESSION['name'], $_SESSION['role']
+Remember Me cookie: 30-day, token stored in users.remember_token
+Redirect: Admin -> dashboard, Customer -> product catalog
